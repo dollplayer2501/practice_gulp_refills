@@ -54,7 +54,7 @@ $ git clone https://github.com/dollplayer2501/practice_gulp_refills.git
 ### 3. Install project dependencies and Bourbon, Neat, Bitters
 
 ```
-$ cd practice_gulp_refills/_source/assets/stylesheets/base/
+$ cd practice_gulp_refills/
 $ npm install
 $ cd _source/assets/stylesheets/base/
 $ bourbon install
