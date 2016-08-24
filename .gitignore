@@ -1,0 +1,9 @@
+.DS_Store
+.git/
+.sass-cache/
+node_modules/
+_source/assets/stylesheets/base/base/
+_source/assets/stylesheets/base/bourbon/
+_source/assets/stylesheets/base/neat/
+HTML/assets/javascripts/
+HTML/assets/stylesheets/
